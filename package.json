@@ -20,6 +20,11 @@
         "label": "Upward Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/upward-dark.json"
+      },
+      {
+        "label": "Upward Dark - Focus Border On",
+        "uiTheme": "vs-dark",
+        "path": "./themes/upward-dark--focus-border-on.json"
       }
     ]
   }

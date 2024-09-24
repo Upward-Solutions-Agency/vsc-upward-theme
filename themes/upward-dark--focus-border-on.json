@@ -1,5 +1,5 @@
 {
-    "name": "Upward Dark",
+    "name": "Upward Dark - Focus Border On",
     "type": "dark",
 
 
@@ -1861,7 +1861,7 @@
     
     ],
 
-    
+
     "colors": {
       "foreground": "#eeeeee",
       "focusBorder": "#ffffff0a",
@@ -2122,13 +2122,14 @@
       "editorGutter.commentRangeForeground": "#b6b6b6",
       "debugExceptionWidget.background": "#212121",
       "debugExceptionWidget.border": "#ffffffab"
+
+    
+
     
     
-    
-    
-    
-    
-    
-    
+
+
+    ,
+      "focusBorder": "#ffead0"
     }
 }
