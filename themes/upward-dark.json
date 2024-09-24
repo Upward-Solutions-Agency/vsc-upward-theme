@@ -1,13 +1,6 @@
 {
-    "name": "upward-dark",
-    "displayName": "Upward Dark",
-    "version": "1.0.0",
+    "name": "Upward Dark",
     "type": "dark",
-    "publisher": "upward-solutions",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Upward-Solutions-Agency/VS-Code-Theme"
-    },
     "semanticHighlighting": true,
     "semanticTokenColors": {
       "enumMember": {
