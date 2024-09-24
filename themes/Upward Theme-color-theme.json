@@ -6,7 +6,7 @@
     "publisher": "upward-solutions",
     "repository": {
         "type": "git",
-        "url": "..."
+        "url": "https://github.com/Upward-Solutions-Agency/VS-Code-Theme"
     },
     "semanticHighlighting": true,
     "semanticTokenColors": {

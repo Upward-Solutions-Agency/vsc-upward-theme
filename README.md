@@ -1,1 +1,1 @@
-# VS-Code-Theme
+# upward-theme README
