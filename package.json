@@ -2,7 +2,7 @@
   "name": "upward-theme",
   "displayName": "Upward Theme",
   "description": "A Minimalist Theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "upward-solutions",
   "repository": {
     "type": "git",
@@ -17,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Upward Theme",
+        "label": "Upward Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Upward Theme-color-theme.json"
+        "path": "./themes/upward-dark.json"
       }
     ]
   }
