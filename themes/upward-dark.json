@@ -2010,7 +2010,7 @@
       "tab.activeForeground": "#ffffff",
       "tab.border": "#4f4f4f",
       "tab.activeBackground": "#000000",
-      "tab.activeBorder": "#00000000",
+      "tab.activeBorder": "#000000",
       "tab.activeBorderTop": "#00000000",
       "tab.inactiveBackground": "#00000000",
       "tab.inactiveForeground": "#e0e0e0",
