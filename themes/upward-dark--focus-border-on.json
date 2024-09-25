@@ -1797,7 +1797,7 @@
         "name": "Comments",
         "scope": "comment, punctuation.definition.comment",
         "settings": {
-          "fontStyle": "italic",
+          "fontStyle": "",
           "foreground": "#6d7d5e"
         }
       },
@@ -1834,7 +1834,7 @@
         "name": "comment",
         "scope": "comment.line.double-slash,comment.block.documentation",
         "settings": {
-          "fontStyle": "italic"
+          "fontStyle": ""
         }
       },
       {
