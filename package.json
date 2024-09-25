@@ -1,10 +1,33 @@
 {
   "name": "upward-theme",
   "displayName": "Upward Theme",
-  "description": "A Minimalist Theme",
+  "description": "An elegant, minimalist dark theme.  Harmonious Design.  Deep dark with clear contrast.",
   "version": "0.2.0",
   "publisher": "upward-solutions",
   "icon": "images/icon.png",
+  "keywords": [
+    "Dark",
+    "Contrast",
+    "Theme",
+    "Minimalist",
+    "Design",
+    "Night",
+    "Elegant",
+    "Harmonious",
+    "Black",
+    "Sleek",
+    "Modern",
+    "Bold",
+    "Clean",
+    "Simple",
+    "Subtle",
+    "Deep",
+    "Sharp",
+    "Minimalist"
+  ],
+  "categories": [
+    "Themes"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Upward-Solutions-Agency/VS-Code-Theme"
@@ -12,9 +35,6 @@
   "engines": {
     "vscode": "^1.93.0"
   },
-  "categories": [
-    "Themes"
-  ],
   "contributes": {
     "themes": [
       {
