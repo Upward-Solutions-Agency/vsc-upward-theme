@@ -38,14 +38,24 @@
   "contributes": {
     "themes": [
       {
-        "label": "Upward Dark",
+        "label": "Upward Dark Purplish",
         "uiTheme": "vs-dark",
-        "path": "./themes/upward-dark.json"
+        "path": "./themes/upward-dark-purplish.json"
       },
       {
-        "label": "Upward Dark - Focus Border On",
+        "label": "Upward Dark Purplish (Focus Border On)",
         "uiTheme": "vs-dark",
-        "path": "./themes/upward-dark--focus-border-on.json"
+        "path": "./themes/upward-dark-purplish--border.json"
+      },
+      {
+        "label": "Upward Dark Classic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/upward-dark-classic.json"
+      },
+      {
+        "label": "Upward Dark Classic (Focus Border On)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/upward-dark-classic--border.json"
       }
     ]
   }
