@@ -75,7 +75,7 @@
         "name": "support.function.std.rust",
         "scope": "support.function.std.rust",
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -145,7 +145,7 @@
         "name": "diff",
         "scope": "meta.diff.header.from-file,meta.diff.header.to-file,punctuation.definition.from-file.diff,punctuation.definition.to-file.diff",
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -187,7 +187,7 @@
         "name": "js/ts import keyword",
         "scope": "keyword.operator.expression.import",
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -239,7 +239,7 @@
         "name": "java modifier.import",
         "scope": "meta.method.java",
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -385,7 +385,7 @@
         "name": "js console function",
         "scope": "entity.name.function,support.function.console",
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -504,7 +504,7 @@
         "name": "python function-call.generic",
         "scope": "meta.function-call.generic.python",
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -607,7 +607,7 @@
           "variable.function"
         ],
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -674,7 +674,7 @@
         "name": "Methods",
         "scope": "keyword.other.special-method",
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -801,7 +801,7 @@
         "scope": "entity.other.attribute-name.id",
         "settings": {
           "fontStyle": "normal",
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -830,7 +830,7 @@
         "name": "Headings",
         "scope": "markup.heading punctuation.definition.heading, entity.name.section",
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -962,7 +962,7 @@
         "name": "[VSCODE-CUSTOM] Markdown Link Title/Description",
         "scope": "string.other.link.title.markdown,string.other.link.description.markdown",
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -1137,7 +1137,7 @@
         "name": "php call-function",
         "scope": "meta.function-call.php,meta.function-call.object.php,meta.function-call.static.php",
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -1165,7 +1165,7 @@
         "name": "php goto",
         "scope": "entity.name.goto-label.php,support.other.php",
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -1200,7 +1200,7 @@
         "name": "python function decorator @",
         "scope": "meta.function.decorator.python",
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -1297,7 +1297,7 @@
       {
         "scope": "token.info-token",
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -1353,7 +1353,7 @@
           "support.type.type.flowtype"
         ],
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -1581,7 +1581,7 @@
           "meta.method.groovy"
         ],
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -1723,7 +1723,7 @@
           "constant.character.xi"
         ],
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
@@ -1732,7 +1732,7 @@
           "accent.xi"
         ],
         "settings": {
-          "foreground": "#e481c3"
+          "foreground": "#ea9ed1"
         }
       },
       {
