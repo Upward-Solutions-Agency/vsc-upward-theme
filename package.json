@@ -1,62 +1,70 @@
 {
-  "name": "upward-theme",
-  "displayName": "Upward Theme",
-  "description": "Elegant, minimalist dark theme.  Harmonious Design.  Deep dark with clear contrast.",
-  "version": "2.5.0",
-  "publisher": "upward-solutions",
-  "icon": "images/icon.png",
-  "keywords": [
-    "Dark",
-    "Contrast",
-    "Theme",
-    "Minimalist",
-    "Design",
-    "Night",
-    "Elegant",
-    "Harmonious",
-    "Black",
-    "Sleek",
-    "Modern",
-    "Bold",
-    "Clean",
-    "Simple",
-    "Subtle",
-    "Deep",
-    "Sharp",
-    "Minimalist"
-  ],
-  "categories": [
-    "Themes"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Upward-Solutions-Agency/VS-Code-Theme"
-  },
-  "engines": {
-    "vscode": "^1.93.0"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Upward Dark Purplish",
-        "uiTheme": "vs-dark",
-        "path": "./themes/upward-dark-purplish.json"
-      },
-      {
-        "label": "Upward Dark Purplish (Focus Border On)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/upward-dark-purplish--border.json"
-      },
-      {
-        "label": "Upward Dark Classic",
-        "uiTheme": "vs-dark",
-        "path": "./themes/upward-dark-classic.json"
-      },
-      {
-        "label": "Upward Dark Classic (Focus Border On)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/upward-dark-classic--border.json"
-      }
-    ]
-  }
+    "name": "upward-theme",
+    "displayName": "Upward Theme",
+    "description": "Elegant, minimalist dark theme.  Harmonious Design.  Deep dark with clear contrast.",
+    "version": "2.5.0",
+    "publisher": "upward-solutions",
+    "icon": "images/icon.png",
+    "keywords": [
+        "Dark",
+        "Contrast",
+        "Theme",
+        "Minimalist",
+        "Design",
+        "Night",
+        "Elegant",
+        "Harmonious",
+        "Black",
+        "Sleek",
+        "Modern",
+        "Bold",
+        "Clean",
+        "Simple",
+        "Subtle",
+        "Deep",
+        "Sharp",
+        "Minimalist"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Upward-Solutions-Agency/VS-Code-Theme"
+    },
+    "engines": {
+        "vscode": "^1.93.0"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Upward Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/upward-dark-default.json"
+            },
+            {
+                "label": "Upward Dark (Focus Border On)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/upward-dark-default--border.json"
+            },
+            {
+                "label": "Upward Dark Legacy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/upward-dark-legacy.json"
+            },
+            {
+                "label": "Upward Dark Legacy (Focus Border On)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/upward-dark-legacy--border.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "chokidar-cli": "^3.0.0",
+        "jsonc-parser": "^3.3.1"
+    },
+    "scripts": {
+        "build": "node build/compile-to-json.js",
+        "watch:themes": "npm run build && chokidar \"themes-dev/**/*.jsonc\" -c \"node build/compile-to-json.js {path}\""
+    }
 }
