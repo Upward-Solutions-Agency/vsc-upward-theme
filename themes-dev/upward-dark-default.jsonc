@@ -2031,7 +2031,6 @@
         /* General */
 
         "foreground": "#c6c6c6", /* insbes. in Settings */
-        "focusBorder": "#ffffff0a",
         "selection.background": "#185777",
         "icon.foreground": "#cccccc", /* z.B. im File Explorer "New File" oder die Show/Hide-Pfeile */
         "checkbox.background": "#242424", /* insbes. in Settings */
@@ -2103,6 +2102,7 @@
         "activityBar.foreground": "#dddddd",
         "activityBar.activeBackground": "#ffffff00",
         "activityBar.activeBorder": "#393939",
+        "activityBar.activeFocusBorder": "#3b3b3b",
         "activityBarTop.background": "#0c0c0c",
         "activityBarTop.foreground": "#e3e3e3",
         "activityBarTop.inactiveForeground": "#ffffff80",
@@ -2223,6 +2223,11 @@
         "terminalCursor.background": "#000000",
         "terminal.border": "#ffffff2c",
 
+        /* Hover/Focus Tooltip */
+        "editorHoverWidget.border": "#ffffff43",
+        "editorHoverWidget.background": "#2b2b2b",
+        "editorHoverWidget.foreground": "#dddddd",
+
         /* Settings */
         "settings.headerForeground": "#cccccc",
         "settings.settingsHeaderHoverForeground": "#dddddd",
@@ -2311,11 +2316,6 @@
         "editor.wordHighlightStrongBackground": "default",
         "editor.wordHighlightBackground": "default",
         
-        /* Editor Info Tooltip */
-        "editorHoverWidget.border": "#ffffff43",
-        "editorHoverWidget.background": "#1e1e1e",
-        "editorHoverWidget.foreground": "#cccccc",
-
         /* Notifications */
         "notificationToast.border": "#ffffff43",
         "notifications.background": "#1e1e1e",
@@ -2341,7 +2341,12 @@
         "peekViewResult.selectionForeground": "#cccccc",
         "peekViewTitle.background": "#242424",
         "peekViewTitleDescription.foreground": "#cccccc",
-        "peekViewTitleLabel.foreground": "#6a6a6a"
+        "peekViewTitleLabel.foreground": "#6a6a6a",
+
+
+
+
+        "focusBorder": "#ffffff0c"
 
     }
 }
