@@ -2287,8 +2287,8 @@
         "editor.findMatchHighlightBackground": "#ffffff3b",
         "editor.findMatchHighlightBorder":     "#ffffff15",
 
-        "editor.findRangeHighlightBackground": "#242424",
-        "editor.findRangeHighlightBorder": "#ffffff00",
+        "editor.findRangeHighlightBackground": "#ffffff20",
+        "editor.findRangeHighlightBorder": "#0d0d0dcc",
         "editor.rangeHighlightBackground": "#303030",
         "editor.rangeHighlightBorder": "#ffffff00",
          
