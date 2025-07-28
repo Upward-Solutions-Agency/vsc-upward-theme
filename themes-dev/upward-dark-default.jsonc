@@ -2082,14 +2082,14 @@
         "pickerGroup.foreground": "#ffffff6a",
                    
         /* Buttons */
-        "button.background": "#2d363d",
+        "button.background": "#2e373e",
         "button.foreground": "#dddddd",
-        "button.hoverBackground": "#414e55",
+        "button.hoverBackground": "#323c43",
         "button.border": "#ffffff02",
         "button.separator": "#515e66",
-        "button.secondaryBackground": "#2d2e2fff",
+        "button.secondaryBackground": "#2a2b2c",
         "button.secondaryForeground": "#bbbbbb",
-        "button.secondaryHoverBackground": "#424649ff",
+        "button.secondaryHoverBackground": "#2f3132",
 
         /* Activity Bar */
         "activityBar.background": "#111111",
