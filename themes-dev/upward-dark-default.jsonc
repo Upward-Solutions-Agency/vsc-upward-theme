@@ -2058,11 +2058,6 @@
         "editorStickyScroll.border": "#2b2b2b",
         "editorStickyScroll.shadow": "#ffffff08",
 
-        "statusBar.border": "#ffffff00",
-        "statusBar.focusBorder": "#ffffff00", /* Fokus */
-        "statusBar.debuggingBorder": "#ffffff", /* Modus: Debugging */
-        "statusBar.noFolderBorder": "#ffffff", /* Modus: Einzel-Files */
-
 
         /* Badges */
         "badge.foreground": "#c9c9c9",
@@ -2142,10 +2137,6 @@
         /* Status Bar */
         "statusBar.foreground": "#7b7b7b",
         "statusBar.background": "#1b1b1b",
-        "statusBar.debuggingForeground": "#ffffff",
-        "statusBar.debuggingBackground": "#000000",
-        "statusBar.noFolderBackground": "#7f735d",
-        "statusBar.noFolderForeground": "#ffffff",
         "statusBarItem.hoverForeground": "#7d7d7d",
         "statusBarItem.hoverBackground": "#ffffff06",
         "statusBarItem.compactHoverBackground": "#ffffff0f",
@@ -2158,6 +2149,14 @@
         "statusBarItem.remoteBackground": "#ffffff0c",
         "statusBarItem.remoteHoverForeground": "#aaaaaa",
         "statusBarItem.remoteHoverBackground": "#ffffff06",
+        "statusBar.border": "#ffffff00", /* Keine */
+        "statusBar.focusBorder": "#ffffff00", /* Keine */
+        "statusBar.debuggingForeground": "#7d7d7d",
+        "statusBar.debuggingBackground": "#2a2213",
+        "statusBar.debuggingBorder": "#ffffff00", /* Keine */
+        "statusBar.noFolderForeground": "#7d7d7d",
+        "statusBar.noFolderBackground": "#24132a",
+        "statusBar.noFolderBorder": "#ffffff00", /* Keine */
 
         /* Fensterleiste */
         "titleBar.activeBackground": "#151515",
